@@ -550,3 +550,19 @@ git push -u origin gitp
 git pull origin master
 git push -u origin gitp
 git push -u origin master
+git remote add origin https://github.com/aabbirbapi/trainingfiles.git
+ls
+git branches
+git branch
+git branch main
+git branch
+git checkout main
+git init
+cat >> hy
+git add .
+git commit -m "hi denied access"
+git status
+git push -u origin master
+git pull origin master
+git push -u origin master
+cat >>hy
